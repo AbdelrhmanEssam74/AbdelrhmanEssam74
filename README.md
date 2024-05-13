@@ -1,33 +1,53 @@
-<h1 align="center">Hey... Abdelrhman Essam</h1>
-<h3 align="center">Software developer ( PHP | Laravel )</h3>
+![1544118575312](https://user-images.githubusercontent.com/51374446/149413490-fb3a6507-eb23-4e08-a756-842c47727978.jpg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrhmanessam74&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrhmanessam74" /> </p>
+##  about me
 
-<p align="left"> <a href="https://twitter.com/abdelrhma_n74" target="blank"><img src="https://img.shields.io/twitter/follow/abdelrhma_n74?logo=twitter&style=for-the-badge" alt="abdelrhma_n74" /></a> </p>
+### Hey...
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<p>
+Hello, I'm Abdelrhman Essam, a Back End Developer specializing in PHP and Laravel framework. I'm based in Egypt and currently seeking internship opportunities or development projects to enhance my skills in computer science and programming techniques. I'm eager to take on the challenges of modern technology and contribute to the growth of an organization.
 
-<h2 align="center">Connect with me:</h2>
-<hr>
+In addition to my professional experience, I actively participate in the open-source community, demonstrating extensive knowledge in various tech domains related to back end development. My expertise lies in PHP and Laravel, and I am proficient in crafting robust and efficient solutions for web applications.
+
+I am committed to continuous learning and have a strong desire to further expand my skills in a collaborative environment. Throughout my career, I have been involved in all aspects of the development lifecycle, and I prioritize delivering clean code and user-focused solutions. I believe in the power of effective teamwork and aim to contribute to the success of projects through collaborative efforts.
+
+</p>
+
+<h1 align="center">
+  Let's Connect and have a Chat!💬
+</h1>
+
 <p align="center">
-<a href="https://dev.to/abdelrhmanessam74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abdelrhmanessam74" height="30" width="40" /></a>
-<a href="https://twitter.com/abdelrhma_n74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdelrhma_n74" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdelrhmanessam74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrhmanessam74" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/25018998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25018998" height="30" width="40" /></a>
-<a href="https://instagram.com/abdelrhma_n_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdelrhma_n_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abdelrhman_74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdelrhman_74" height="30" width="40" /></a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/abdelrhmanessam74/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://wa.me/+201028492181" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="47" height="35" alt="whatsapp logo"  />
+  </a>
+  <a href="https://www.instagram.com/abdelrhma_n_/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100010759060312" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="47" height="35" alt="facebook logo"  />
+  </a>
+</div>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p  style="display:flex; justify-content:space-between;"> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
-</p>
-<div style="display:flex;flex-wrap:wrap;align-item:center;justify-content:center; ">
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrhmanessam74&show_icons=true&locale=en&layout=compact" alt="abdelrhmanessam74" /></p>
+##  Languages and Tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelrhmanessam74&show_icons=true&locale=en" alt="abdelrhmanessam74" /></p>
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,js,html,css,cpp,py,bootstrap,firebase,git,github,vscode,photoshop,illustrator)](https://skillicons.dev)
+<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrhmanessam74&" alt="abdelrhmanessam74" /></p>
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrhmanEssam74&layout=compact&hide_border=true&theme=onedark" width="40%" alt="Abdelrhman Essam " />
+    <img src="https://github-readme-stats.vercel.app/api?username=AbdelrhmanEssam74&show_icons=true&theme=onedark&line_height=27" alt="AbdelrhmanEssam74" width="50%" />
+</div>
+
+<div align="center" >
+<a href="https://github.com/AbdelrhmanEssam74">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelrhmanEssam74&hide_border=true&theme=onedark" width="75%" alt="Abdelrhman Essam " />
+</a>
 </div>
