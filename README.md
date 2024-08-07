@@ -2,7 +2,7 @@
 ##  about me
 
 ### Hey...
-
+![Logo](https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif)
 <p>
 Hello, I'm Abdelrhman Essam, a Back End Developer specializing in PHP and Laravel framework. I'm based in Egypt and currently seeking internship opportunities or development projects to enhance my skills in computer science and programming techniques. I'm eager to take on the challenges of modern technology and contribute to the growth of an organization.
 
@@ -24,12 +24,6 @@ I am committed to continuous learning and have a strong desire to further expand
   <a href="https://wa.me/+201028492181" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="47" height="35" alt="whatsapp logo"  />
   </a>
-  <a href="https://www.instagram.com/abdelrhma_n_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100010759060312" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="47" height="35" alt="facebook logo"  />
-  </a>
 </div>
 </p>
 
@@ -50,3 +44,7 @@ I am committed to continuous learning and have a strong desire to further expand
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelrhmanEssam74&hide_border=true&theme=onedark" width="75%" alt="Abdelrhman Essam " />
 </a>
 </div>
+
+<h1 align="center">IT WAS NICE MEETING YOU! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" /> </h1>
+
+![Logo](https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjMwNDY0ODcsIm5iZiI6MTcyMzA0NjE4NywicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODA3VDE1NTYyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTgxM2E1MTgwMWM4YzE4YjQwMGQ3MGZjY2VjNzViNzFiMWE3MDcxNjg0NDQ2YzkzOGNmNTI2MmY3NmEzMzdjOTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.ZAXIAor0CeO7DugMlG-MtnYUDD2JFAMUpWRDN2qZ_gs)
