@@ -1,8 +1,13 @@
 
-##  about me
+##  about me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Right%20Anger%20Bubble.png" alt="Right Anger Bubble" width="25" height="25" />
+
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" />
+</div>
 
 ### Hey...
-![Logo](https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif)
+
 <p>
 Hello, I'm Abdelrhman Essam, a Back End Developer specializing in PHP and Laravel framework. I'm based in Egypt and currently seeking internship opportunities or development projects to enhance my skills in computer science and programming techniques. I'm eager to take on the challenges of modern technology and contribute to the growth of an organization.
 
@@ -29,8 +34,12 @@ I am committed to continuous learning and have a strong desire to further expand
 
 ##  Languages and Tools
 
+<div align="center">
+
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,js,html,css,cpp,py,bootstrap,firebase,git,github,vscode,photoshop,illustrator)](https://skillicons.dev)
 <br/>
+
+</div>
 
 ## GitHub Stats
 
