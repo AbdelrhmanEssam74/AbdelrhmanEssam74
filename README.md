@@ -36,7 +36,7 @@ I am committed to continuous learning and have a strong desire to further expand
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,js,html,css,cpp,py,bootstrap,firebase,git,github,vscode,photoshop,illustrator)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,js,html,css,cpp,py,bootstrap,firebase,git,github,react,vscode,photoshop,illustrator)](https://skillicons.dev)
 <br/>
 
 </div>
