@@ -58,8 +58,10 @@ I am committed to continuous learning and have a strong desire to further expand
 <h1 align="center">IT WAS NICE MEETING YOU! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" /> </h1>
 
 
-<div align="center">
-  <img height="200" src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjUwMTkzOTQsIm5iZiI6MTcyNTAxOTA5NCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODMwVDExNTgxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI2N2NkNTZkOGI0MDVmM2YyY2JiM2ZkNWJmOTQzZjZmYjEwODQ5ODA5MDIwYjQyZTIzZjUxMDE2MzVkZWRmMGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.iW2oqWJWysEcWvPg9HGraaTvqe12YgFxZanubgJaEyk"  />
+<div align="center" style="width:100%">
+  
+![4eafb9d14230b57193f327316c0760d1](https://github.com/user-attachments/assets/cd2e4f12-f7ce-46fb-b4ac-9b82303c69d5)
+
 </div>
 
 ###
