@@ -49,9 +49,9 @@ I am committed to continuous learning and have a strong desire to further expand
 </div>
 
 <div align="center" >
-<a href="https://github.com/AbdelrhmanEssam74">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelrhmanEssam74&hide_border=true&theme=onedark" width="75%" alt="Abdelrhman Essam " />
-</a>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abdelrhman74&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+
 </div>
 
 <h1 align="center">IT WAS NICE MEETING YOU! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" /> </h1>
