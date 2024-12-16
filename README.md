@@ -50,7 +50,7 @@ I am committed to continuous learning and have a strong desire to further expand
 
 <div align="center" >
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AbdelrhmanEssam74&theme=dark&exclude_days=Sun%2CMon%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AbdelrhmanEssam74&theme=dark)](https://git.io/streak-stats)
 
 </div>
 
