@@ -149,7 +149,7 @@ I am committed to continuous learning and have a strong desire to further expand
 
 <div align="center" style="width:100%">
   
-![9070324cdfc07c68d60eed0c39e77573](https://github.com/user-attachments/assets/0a1a2c7c-671b-41d5-8cc6-4f0d5c5b9018)
+![9070324cdfc07c68d60eed0c39e77573](https://github.com/user-attachments/assets/457a6408-31f9-49e5-aed6-5665c6367bc1)
 
 
 </div>
