@@ -11,7 +11,7 @@
 <p>
 Hello, I'm Abdelrhman Essam, a Back End Developer specializing in PHP and Laravel framework. I'm based in Egypt and currently seeking internship opportunities or development projects to enhance my skills in computer science and programming techniques. I'm eager to take on the challenges of modern technology and contribute to the growth of an organization.
 
-In addition to my professional experience, I actively participate in the open-source community, demonstrating extensive knowledge in various tech domains related to back end development. My expertise lies in PHP and Laravel, and I am proficient in crafting robust and efficient solutions for web applications.
+In addition to my professional experience, I actively participate in the open-source community, demonstrating extensive knowledge in various tech domains related to back end development. My expertise lies in PHP and Laravel, and I am proficient in crafting robust and efficient solutions for web applications..
 
 I am committed to continuous learning and have a strong desire to further expand my skills in a collaborative environment. Throughout my career, I have been involved in all aspects of the development lifecycle, and I prioritize delivering clean code and user-focused solutions. I believe in the power of effective teamwork and aim to contribute to the success of projects through collaborative efforts.
 
