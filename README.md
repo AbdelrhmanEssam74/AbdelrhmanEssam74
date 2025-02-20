@@ -1,7 +1,3 @@
-
-##  about me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Right%20Anger%20Bubble.png" alt="Right Anger Bubble" width="26" height="26" />
-
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" />
 </div>
@@ -10,7 +6,7 @@
 
 <p>
   
-👋 Hello, this is **Abdelrhman Essam**, a passionate and detail-oriented **Back End Developer** specializing in **PHP** and the **Laravel framework**. Based in **Egypt**, actively seeking **internship opportunities** or **development projects** to further refine skills in **computer science** and **programming techniques**. Thrives on tackling the challenges posed by modern technology and is eager to contribute to the growth and innovation of forward-thinking organizations.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Right%20Anger%20Bubble.png" alt="Right Anger Bubble" width="26" height="26" /> Hello, this is **Abdelrhman Essam**, a passionate and detail-oriented **Back End Developer** specializing in **PHP** and the **Laravel framework**. Based in **Egypt**, actively seeking **internship opportunities** or **development projects** to further refine skills in **computer science** and **programming techniques**. Thrives on tackling the challenges posed by modern technology and is eager to contribute to the growth and innovation of forward-thinking organizations.
 
 ### 🛠️ Technical Expertise
 - **Core Skills**: Proficient in **PHP** and **Laravel**, with a strong focus on building **scalable**, **secure**, and **efficient** back-end systems for web applications.
