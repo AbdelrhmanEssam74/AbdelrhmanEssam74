@@ -4,22 +4,52 @@
 
 ### Hey....
 
-<p>
-  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Right%20Anger%20Bubble.png" alt="Right Anger Bubble" width="26" height="26" /> Hello, this is **Abdelrhman Essam**, a passionate and detail-oriented **Back End Developer** specializing in **PHP** and the **Laravel framework**. Based in **Egypt**, actively seeking **internship opportunities** or **development projects** to further refine skills in **computer science** and **programming techniques**. Thrives on tackling the challenges posed by modern technology and is eager to contribute to the growth and innovation of forward-thinking organizations.
+<p align="justify">
 
-### 🛠️ Technical Expertise
-- **Core Skills**: Proficient in **PHP** and **Laravel**, with a strong focus on building **scalable**, **secure**, and **efficient** back-end systems for web applications.
-- **Development Practices**: Experienced in writing **clean**, **maintainable code** and following **best practices** to ensure high-quality, user-focused solutions.
-- **Open Source Contributions**: Actively engaged in the **open-source community**, collaborating on projects, sharing knowledge, and staying updated with the latest trends and advancements in back-end development.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Right%20Anger%20Bubble.png" alt="Right Anger Bubble" width="26" height="26" />  
 
-### 🌱 Continuous Learning & Collaboration
-Deeply committed to **continuous learning**, constantly seeking opportunities to expand skill sets. Whether it's exploring new technologies, refining problem-solving abilities, or enhancing understanding of software architecture, there's always an eagerness to grow. Thrives in **collaborative environments** and believes in the power of **teamwork** to drive project success. The goal is to contribute meaningfully to projects by leveraging technical expertise and fostering a culture of innovation and excellence.
+# 👋 Hello, I'm **Abdelrhman Essam**
 
-### 🚀 Career Aspirations
-Throughout the journey, involvement in all stages of the **development lifecycle** has been a priority, from planning and design to implementation and deployment. Passionate about delivering **robust solutions** that not only meet but exceed user expectations. The ultimate aim is to be part of a dynamic team where skills can be applied, learned from experienced professionals, and contributed to impactful projects that push the boundaries of technology.
+A passionate and detail-driven **Back-End Developer** from **Egypt**, specializing in **PHP** and the **Laravel framework**.  
+Currently seeking **internship opportunities** and **development projects** where I can apply my skills, grow as a developer, and contribute to building high-quality, scalable software solutions.  
 
-Let's connect and create something amazing together! Feel free to reach out for collaboration, mentorship, or just to chat about tech. 😊
+---
+
+## 🧠 About Me  
+
+I’m deeply interested in how technology shapes the future — and I love being part of that change.  
+My focus is on writing **clean, efficient, and maintainable code** that powers **reliable** and **secure** back-end systems.  
+I thrive in fast-paced environments that challenge me to think critically, adapt quickly, and continuously improve.  
+
+---
+
+## 🛠️ Technical Expertise  
+
+- **Core Stack:** PHP | Laravel | MySQL | RESTful APIs  
+- **Development Principles:** Clean architecture, scalable design, and best coding practices  
+- **Tools & Version Control:** Git | GitHub | Composer | Postman  
+- **Community Involvement:** Active contributor to **open-source projects** and always eager to **learn, share, and collaborate**  
+
+---
+
+## 🌱 Growth Mindset  
+
+I’m committed to **continuous learning** — constantly exploring new technologies, improving problem-solving skills, and deepening my understanding of **software architecture** and **system design**.  
+Collaboration is where I thrive: I believe that great ideas are born when passionate people work together.  
+
+---
+
+## 🚀 Career Goals  
+
+My aim is to join a **dynamic, forward-thinking team** where I can contribute to meaningful projects, learn from experienced mentors, and build solutions that make a real impact.  
+I’m driven by curiosity, innovation, and a desire to turn ideas into seamless, performant applications.  
+
+---
+
+### 💬 Let’s Connect  
+
+Let’s create something remarkable together!  
+Feel free to reach out for **collaboration**, **mentorship**, or just a **tech chat**. 😊  
 
 </p>
 
@@ -157,7 +187,7 @@ Let's connect and create something amazing together! Feel free to reach out for 
 
 <div align="center" style="width:100%">
   
-![9070324cdfc07c68d60eed0c39e77573](https://github.com/user-attachments/assets/457a6408-31f9-49e5-aed6-5665c6367bc1)
+(![Image](https://github.com/user-attachments/assets/31623c48-2182-49f1-9f65-2b71118281c2))
 
 
 </div>
